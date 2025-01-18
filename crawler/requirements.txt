@@ -1,0 +1,10 @@
+setuptools
+six
+requests
+lxml
+cachecontrol
+html2text
+tqdm
+pandas
+elasticsearch==7.17.0
+beautifulsoup4

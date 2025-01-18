@@ -1,0 +1,13 @@
+model_list:
+  - model_name: PhatGPT
+    litellm_params:
+        model: ollama/PhatGPT
+        api_base: http://localhost:11434
+  - model_name: PhatGPT
+    litellm_params:
+        model: ollama/PhatGPT
+        api_base: http://localhost:11434
+  - model_name: PhatGPT
+    litellm_params:
+        model: ollama/PhatGPT
+        api_base: http://localhost:11434

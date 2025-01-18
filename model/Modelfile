@@ -1,0 +1,5 @@
+FROM ./vitral-7b-chat.Q3_K_M.gguf
+TEMPLATE """[INST] {{ .System }} {{ .Prompt }} [/INST]"""
+PARAMETER stop "[INST]"
+PARAMETER stop "[/INST]"
+PARAMETER num_predict 1024

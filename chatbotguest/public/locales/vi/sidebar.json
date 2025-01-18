@@ -1,0 +1,16 @@
+{
+  "New folder": "Thư mục mới",
+  "New chat": "Tạo hội thoại mới",
+  "No conversations.": "Không có hội thoại nào.",
+  "Search conversations...": "Tìm kiếm các cuộc hội thoại...",
+  "GPTPhat API Key": "GPTPhat API Key",
+  "Import data": "Nhập dữ liệu hội thoại",
+  "Are you sure?": "Bạn chắc chắn chứ?",
+  "Clear conversations": "Xoá các đoạn hội thoại",
+  "Export data": "Xuất dữ liệu hội thoại",
+  "Dark mode": "Chế độ tối",
+  "Light mode": "Chế độ sáng",
+  "Use RAG": "Trả lời Phật Giáo",
+  "Not use RAG": "Trả lời tự do"
+
+}

@@ -1,0 +1,7 @@
+version: "2"
+authtoken: <authToken>
+tunnels:
+  gptphat:
+    proto: http
+    addr: 3000
+    hostname: gptphat.com

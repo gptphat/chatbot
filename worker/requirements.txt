@@ -1,0 +1,6 @@
+aiohttp
+aioredis
+python-dotenv
+rejson
+requests
+pydantic>=1.10.0,<2.0.0

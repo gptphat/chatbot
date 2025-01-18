@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+aiohttp
+litellm
+pydantic>=2.0
+async_generator
+pycloudflared
+gdown

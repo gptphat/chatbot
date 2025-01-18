@@ -1,0 +1,7 @@
+*.pyc
+crawler/data.csv
+crawler/theravada_vn.csv
+model/vitral-7b-chat.Q3_K_M.gguf
+crawler/data_theravada.csv
+crawler/db.json
+.env

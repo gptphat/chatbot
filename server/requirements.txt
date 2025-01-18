@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gunicorn
+WebSockets
+python-dotenv
+aioredis
+aiohttp
+rejson
+pydantic>=1.10.0,<2.0.0
